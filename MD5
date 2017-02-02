@@ -1,0 +1,12 @@
+30e96771ee272c0b024823d2adac9556 *DESCRIPTION
+216c7bf76777d60c4d503e6a61eb7a79 *NAMESPACE
+0714fa997f2993b9e55ba9d10743e552 *R/readHAC.R
+4429271d9a8bb89f55fcd32147c50228 *demo/00Index
+9eb29ef05ee515c2561d680ae3ee85c7 *demo/intro.R
+90f7de32dbada8c148e722f5b4bba3a6 *inst/hac/Hac-test_000001.hac
+5615ba243328060fbb5e6a38347cd0de *inst/hacdef.dcf
+02e0ce654cdbff21f9f72b65a8672612 *man/indexSubset.Rd
+b3939a3d5ff9d0764ab6ca98b84fea04 *man/parseHAC.Rd
+46d12fffd46f62a6f3d5399d0ae9a180 *man/readHAC-package.Rd
+38dc441ece446044be9f0c53da8e476f *man/readHAC.Rd
+702c524d17cf69e346838b58f02eaca9 *man/writeHAC.Rd

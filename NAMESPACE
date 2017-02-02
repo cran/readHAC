@@ -1,0 +1,10 @@
+## Imports
+importFrom("utils", head, tail)
+
+## Exports
+export(readHAC, writeHAC, parseHAC)
+
+## Methods :
+S3method("[", HAC)
+S3method(print, HAC)
+S3method(print, tuple)
